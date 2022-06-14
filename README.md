@@ -27,4 +27,6 @@ Goal - I want contributors to help me list last video game someone played.
 4.Asphalt 9
 5.Valorant
 6.Kirby and the Forgotten Land
-7.Groove coaster
+7.Fate / Grand Order
+8.パチンコ
+9.Groove coaster
