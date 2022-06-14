@@ -37,3 +37,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - Nishikawa Takanori
 - YoruShika
 - =LOVE
+- Susumu Hirasawa 
