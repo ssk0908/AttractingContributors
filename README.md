@@ -26,3 +26,11 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - Nhato
 - Farid Bang
 - Alexandros
+- FLOW
+- Nujabes
+- YOASOBI
+- OrangeStar
+- Mrs. GREEN APPLE
+- Nishikawa Takanori
+- YoruShika
+- =LOVE
