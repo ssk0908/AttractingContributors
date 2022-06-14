@@ -25,4 +25,15 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - Totaka Kazumi
 - Nhato
 - Farid Bang
-- Hikaru Utada</br>
+- Hikaru Utada
+- Utada Hikaru
+- Suchmos
+- Alexandros
+- FLOW
+- Nujabes
+- YOASOBI
+- OrangeStar
+- Mrs. GREEN APPLE
+- Nishikawa Takanori
+- YoruShika
+- =LOVE
