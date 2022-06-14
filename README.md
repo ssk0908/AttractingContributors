@@ -24,6 +24,13 @@ Goal - I want contributors to help me list last video game someone played.
 1.League of Legends
 2.Overwatch
 3.AVA  
-4.Asphalt 9
-5.Valorant  
-6.Genshinn. 
+4.Asphalt 9 
+5.Valorant
+6.Kirby and the Forgotten Land
+7.Fate / Grand Order
+8.パチンコ
+9.Groove coaster
+10.r6s
+11.dead by daylight
+12.GenGod
+13.Genshinn.
