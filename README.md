@@ -29,3 +29,4 @@ Goal - I want contributors to help me list last video game someone played.
 6.Kirby and the Forgotten Land
 7.Fate / Grand Order
 8.パチンコ
+9.Groove coaster
