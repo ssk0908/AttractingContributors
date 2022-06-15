@@ -34,4 +34,6 @@ Goal - I want contributors to help me list last video game someone played.
 11.dead by daylight
 12.GenGod
 13.Genshinn.
-14.でかすぎくん
+14.League of Legends
+15.Project Sekai
+16.でかすぎくん
