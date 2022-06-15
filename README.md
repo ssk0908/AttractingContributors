@@ -33,6 +33,7 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - Nujabes
 - YOASOBI
 - OrangeStar
+- aespa
 - Mrs. GREEN APPLE
 - Nishikawa Takanori
 - YoruShika
