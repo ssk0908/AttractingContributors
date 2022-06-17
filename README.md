@@ -12,3 +12,4 @@ Sand-Sand Fruit
 - Hie hie no mi
 - Mera mera no mi
 - Pika pika no mi
+- Moku Moku no mi
