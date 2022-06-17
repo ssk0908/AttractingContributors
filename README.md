@@ -29,3 +29,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 6. ボンカレー
 7. バターチキンカレー
 8. キーマカレー
+9. 金沢カレー
