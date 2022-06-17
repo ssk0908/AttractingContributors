@@ -12,4 +12,5 @@ Tell me which Devil Fruit you want. ex.) Love-Love fruit (メロメロの実)
 - Mera mera no mi
 - Pika pika no mi
 - Mero Mero no mi
+- Ito ito no mi
 - Moku Moku no mi
