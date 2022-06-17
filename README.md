@@ -21,6 +21,8 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # List of Hobby
-- green curry
-1.Tofu Curry
-2.ジャワカレー
+1. green curry
+2. Tofu Curry
+3. ジャワカレー
+4. green curry
+5. Tofu Curry
