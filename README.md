@@ -5,12 +5,12 @@ As part of the Software Engineering Class, we would like to simulate how Open So
 Tell me which Devil Fruit you want. ex.) Love-Love fruit (メロメロの実)
 
 # List
-Love-Love fruit
-Sand-Sand Fruit
-
 (add your favorite Devil fruit.)
+- Love-Love fruit
+- Sand-Sand Fruit
 - Hie hie no mi
 - Mera mera no mi
 - Pika pika no mi
+- Mero Mero no mi
 - Ito ito no mi
 - Moku Moku no mi
