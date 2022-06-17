@@ -19,7 +19,7 @@ Please add your favourite anime below!
 
 7.約束のネバーランド
 
-8.
+8.HUNTERxHUNTER
 
 9.
 
@@ -27,3 +27,4 @@ Please add your favourite anime below!
 
 
 11.
+
