@@ -27,3 +27,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 4. My curry
 5. ジャワカレー
 6. ボンカレー
+7. バターチキンカレー
