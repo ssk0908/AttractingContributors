@@ -22,4 +22,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # List of Hobby
 - green curry
-- bon curry(ボンカレー)
+1.Tofu Curry
