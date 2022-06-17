@@ -24,3 +24,6 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 1. green curry
 2. Tofu Curry
 3. My curry
+4. ジャワカレー
+5. green curry
+6. Tofu Curry
