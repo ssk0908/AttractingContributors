@@ -38,3 +38,4 @@ Goal - I want contributors to help me list last video game someone played.
 15.Project Sekai
 16.でかすぎくん
 17. 雀魂
+18. Fishing Planet
