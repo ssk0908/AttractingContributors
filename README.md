@@ -13,4 +13,18 @@ Please add your favourite anime below!
 
 4.Hikaru no Go
 
-5.Hunter X Hunter
+5.Doraemon
+
+6.evangelion
+
+7.約束のネバーランド
+
+8.HUNTERxHUNTER
+
+9.
+
+10.
+
+
+11.
+
