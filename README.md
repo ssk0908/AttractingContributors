@@ -23,3 +23,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 # List of Hobby
 - green curry
 1.Tofu Curry
+2.ジャワカレー
