@@ -15,9 +15,11 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
+# Priject
+あなたの一番好きなアニメのヒロインを教えてください
+What is your favorite anime heroine?
 
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# List of Hobby
+# List of Heroine
+1. Tohsaka Rin(Fate/stay night [Unlimited Blade Works])
+
