@@ -30,3 +30,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 7. バターチキンカレー
 8. キーマカレー
 9. 金沢カレー
+10. ビーフカレー
