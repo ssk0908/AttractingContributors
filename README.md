@@ -40,6 +40,7 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - =LOVE
 - Susumu Hirasawa 
 - Official Higedan dism
+- Zutomayo
 - Dream Theater
 - SUM 41
 - The Weeknd
