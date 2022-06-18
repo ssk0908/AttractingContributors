@@ -31,4 +31,6 @@ Example:
 2.Curry.
 
 # List of food
+1. Rice
+# List of food
 1.
