@@ -42,3 +42,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - Official Higedan dism
 - Dream Theater
 - SUM 41
+- The Weeknd
+- Lisa
