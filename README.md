@@ -31,4 +31,6 @@ Example:
 2.Curry.
 
 # List of food
-1.
+1. Nasi Goreng (Fried Rice)
+2. Chicken Curry
+3. Chicken Sweet Soy Sauce
