@@ -40,3 +40,6 @@ Example:
 7. Patato pure
 8. Fried rice
 9. Ramen
+10. Nasi Goreng (Fried Rice)
+11. Chicken Curry
+12. Chicken Sweet Soy Sauce
