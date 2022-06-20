@@ -31,4 +31,10 @@ Example:
 2.Curry.
 
 # List of food
-1. Patato pure
+1.Curry
+2. Curry Rice
+3.　Tomato pasta
+4. Rice
+5. Shuizhu
+6. Tomato and egg
+7. Patato pure
