@@ -31,7 +31,6 @@ Example:
 2.Curry.
 
 # List of food
-1. Curry Rice
-2.　Tomato pasta
-
-
+1.Curry
+2. Curry Rice
+3.　Tomato pasta
