@@ -27,4 +27,4 @@ What is your favorite anime heroine?
 4. Echidna（Re：0）
 5. kyoko sakura （madoka）
 6. Itijo Hana (Aoashi)
-
+7. Shirogane (Karakuri circus)
