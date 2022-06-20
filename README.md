@@ -16,3 +16,4 @@ Tell me which Devil Fruit you want. ex.) Love-Love fruit (メロメロの実)
 - Moku Moku no mi
 - Bomu Bomu no Mi
 - Gomu-Gomu fruit
+- Magu-Magu no Mi
