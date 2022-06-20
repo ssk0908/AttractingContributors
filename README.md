@@ -43,3 +43,4 @@ Example:
 10. Nasi Goreng (Fried Rice)
 11. Chicken Curry
 12. Chicken Sweet Soy Sauce
+13. Curry apple scallop salad
