@@ -37,3 +37,4 @@ Example:
 4. Rice
 5. Shuizhu
 6. Tomato and egg
+7. Patato pure
