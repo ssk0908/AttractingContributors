@@ -45,3 +45,4 @@ Example:
 12. Chicken Sweet Soy Sauce
 13. Curry apple scallop salad
 14. Karaage
+15. Hot Pot
