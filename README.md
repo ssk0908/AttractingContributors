@@ -38,3 +38,4 @@ Example:
 5. Shuizhu
 6. Tomato and egg
 7. Patato pure
+8. Fried rice
