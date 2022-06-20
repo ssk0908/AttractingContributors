@@ -31,4 +31,8 @@ Example:
 2.Curry.
 
 # List of food
-1. Shuizhu
+1.Curry
+2. Curry Rice
+3.　Tomato pasta
+4. Rice
+5. Shuizhu
