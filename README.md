@@ -31,4 +31,16 @@ Example:
 2.Curry.
 
 # List of food
-1. Curry apple scallop salad
+1.Curry
+2. Curry Rice
+3.　Tomato pasta
+4. Rice
+5. Shuizhu
+6. Tomato and egg
+7. Patato pure
+8. Fried rice
+9. Ramen
+10. Nasi Goreng (Fried Rice)
+11. Chicken Curry
+12. Chicken Sweet Soy Sauce
+13. Curry apple scallop salad
