@@ -45,4 +45,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - SUM 41
 - The Weeknd
 - Lisa
+- Back Number
 - MARY
