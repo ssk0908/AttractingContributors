@@ -28,3 +28,4 @@ What is your favorite anime heroine?
 5. kyoko sakura （madoka）
 6. Itijo Hana (Aoashi)
 7. Shirogane (Karakuri circus)
+8. Navi (The Legend of Zelda)
