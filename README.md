@@ -21,3 +21,4 @@ Please vote your favorite celebrity following lists
 - 劇団ひとり
 - Taylor Swift
 - Adele
+- あのちゃん
