@@ -34,4 +34,5 @@ Please tell us your favorite ice cream
 * Famima's Retro Pudding Ice Cream Bar(ファミマのレトロプリンアイスバー)
 
 * BLUE SEAL
-* 
+
+* GARIGARIKUN
