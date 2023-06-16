@@ -29,3 +29,4 @@ What is your favorite anime heroine?
 6. Itijo Hana (Aoashi)
 7. Shirogane (Karakuri circus)
 8. Navi (The Legend of Zelda)
+9. Takanasi rikka(厨二病でも恋がしたい）
