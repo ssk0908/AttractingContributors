@@ -47,3 +47,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - Lisa
 - Back Number
 - MARY
+- cotton candy
