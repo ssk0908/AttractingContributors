@@ -18,3 +18,4 @@ Tell me which Devil Fruit you want. ex.) Love-Love fruit (メロメロの実)
 - Gomu-Gomu fruit
 - Magu-Magu no Mi
 - Yami-Yami no Mi
+- Goro Goro no mi
