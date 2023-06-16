@@ -32,3 +32,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 9. 金沢カレー
 10. ビーフカレー
 11. Lamb Masala
+12. バターチキンカレー
