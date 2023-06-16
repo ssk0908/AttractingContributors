@@ -38,3 +38,4 @@ To complete the assignment, please do the following:
 - Rei
 - iruson
 - 魔王
+- キャプテン・アメリカン
