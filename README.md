@@ -11,4 +11,13 @@ Welcome I want to know your favorite game.
 1. Apex
 2. Mario Kart
 3. Mahjang
-4. Residen Evil 4
+
+
+
+
+
+4. Genshin Impact
+5. FIFA
+6. Apex
+7. Residen Evil 4
+
