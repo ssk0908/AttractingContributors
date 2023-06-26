@@ -13,7 +13,11 @@ Welcome I want to know your favorite game.
 3. Mahjang
 
 
+
+
+
 4. Genshin Impact
 5. FIFA
 6. Apex
+7. Residen Evil 4
 
