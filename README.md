@@ -11,11 +11,12 @@ Welcome I want to know your favorite game.
 1. Apex
 2. Mario Kart
 3. Mahjang
+4. Minecraft
 
-4. Genshin Impact
-5. FIFA
-6. Apex
-7. Residen Evil 4
-8. Genshin Impact
-9. Overwatch
-10. Valorant
+5. Genshin Impact
+6. FIFA
+7. Apex
+8. Residen Evil 4
+9. Genshin Impact
+10. Overwatch
+11. Valorant
